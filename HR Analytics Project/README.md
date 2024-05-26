@@ -2,6 +2,8 @@
 
 Welcome to my first Power BI dashboard dedicated to **Employee Attrition**!
 
+![HR Analytics Dashboard](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/HR%20Analytics%20Project/Dashboard%20Screenshot.png)
+
 ## Key Insights:
 
 - Explore essential metrics including:
@@ -29,6 +31,3 @@ Welcome to my first Power BI dashboard dedicated to **Employee Attrition**!
 
 This interactive tool not only identifies trends but also uncovers valuable patterns within employee attrition data. By facilitating data-driven decision-making, it empowers organizations to devise and implement effective talent retention strategies.
 
-```
-
-```
