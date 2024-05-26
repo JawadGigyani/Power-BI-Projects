@@ -6,6 +6,9 @@ I'm happy to share my latest project: a comprehensive **Car Sales Dashboard** de
 
 With a focus on facilitating informed decision-making, this dashboard dives deep into key performance indicators (KPIs) essential for understanding sales data.
 
+!["Car Sales Dashboard"](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Car%20Sales%20Analysis%20Prohect/Dashboard%20Screenshot-1.png)
+!["Car Sales Dashboard"](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Car%20Sales%20Analysis%20Prohect/Dashboard%20Screenshot-2.png)
+
 ## Key Insights:
 
 - **Year-to-Date Total Sales & Month-to-Date Total Sales**: Provide a snapshot of current performance, aiding in short-term and long-term planning.
