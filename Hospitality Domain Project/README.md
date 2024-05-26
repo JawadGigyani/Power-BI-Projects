@@ -4,6 +4,8 @@ I am thrilled to share my latest Power BI project: **the Hotel Analytics Dashboa
 
 In today's hospitality industry, understanding key metrics such as **Revenue**, **Occupancy %**, **Average Rating**, and more is paramount for driving success. Utilizing Power BI, I meticulously crafted a dynamic dashboard that visualizes these metrics in a user-friendly interface.
 
+![Hotel Analytics Dashboard](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Hospitality%20Domain%20Project/Dashboard%20Screenshot.png)
+
 ## Key Insights:
 
 ### Revenue Management Optimization:
