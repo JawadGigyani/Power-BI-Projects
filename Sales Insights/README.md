@@ -1,6 +1,8 @@
-# Dynamic Sales Insights Dashboard Project
+# Sales Insights Dashboard Project
 
 I am excited to unveil my latest project: a dynamic **Sales Insights Dashboard** in Power BI!
+
+![Sales Insights Dashboard](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Sales%20Insights/Dashboard%20Screenshot.png)
 
 ## Key Insights:
 
