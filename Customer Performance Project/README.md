@@ -4,6 +4,9 @@ I am thrilled to share my latest Power BI project: **the Customer Performance Da
 
 In today's dynamic business environment, understanding customers' demographics and behaviors is paramount to driving success. That's why I'm excited to share this comprehensive dashboard that offers key insights into the customer base.
 
+!["Customer Performance Dashboard"](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Customer%20Performance%20Project/Dashboard%20Screenshot-1.png)
+!["Customer Performance Dashboard"](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Customer%20Performance%20Project/Dashboard%20Screenshot-2.png)
+
 ## Key Insights:
 
 1️⃣ **Demographic Understanding**: Dive into customer demographics with insights into average age and count, enabling tailored strategies to resonate with the audience better.
