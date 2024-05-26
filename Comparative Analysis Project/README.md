@@ -2,6 +2,8 @@
 
 I'm thrilled to share that I've just completed a sales **comparative analysis dashboard** project.
 
+!["Comparative Analysis Dashboard"](https://github.com/JawadGigyani/Power-BI-Projects/blob/main/Comparative%20Analysis%20Project/Dashboard%20Screenshot.png)
+
 ## Key Insights:
 
 - Despite challenges, observed a significant 18% decrease in growth and a 23% budget variance, indicating areas for optimization and strategic adjustments.
